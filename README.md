@@ -1,6 +1,8 @@
 # GIFsApp
 
-Este es un proyecto de Angular.
+Este es un proyecto de Angular que permite realizar búsqueda de GIFs por palabras clave, 
+crea un historial de búsqueda que se puede volver a consultar o
+muestra un listado de GIFS que son tendencia con scroll infinito.
 
 ## Dev
 
